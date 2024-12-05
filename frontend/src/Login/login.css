@@ -1,0 +1,35 @@
+.form{
+    text-align: center;
+    margin: 20% 40% 0 40%;
+    width: 400px;
+    background-color: rgb(184, 224, 242);
+    border-radius: 50px;
+}
+
+.login{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.input input{
+    width: 300px;
+    height: 60px;
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+.btn{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.btn button{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(0, 162, 255);
+    cursor: pointer;
+}
